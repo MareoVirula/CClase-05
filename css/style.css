@@ -1,0 +1,71 @@
+/* SELECTOR{
+    PROPIEDAD: 345345345
+    pROPIEDAD: "120px"
+} */
+
+
+/* background="imgs/Paris-01.jpg" text="#ffffff" link="#ffff33" alink="#ffffcc" vlink="ffff00" */
+
+* {
+    margin: 10px;
+    padding: 5px;
+}
+
+body {
+    /* background-image: url("../imgs/Paris-02.JPG"); */
+    background-color: cyan;
+    background-size: 100%;
+    /* background-color: lightsalmon; */
+}
+
+header {
+    background-color: black;
+}
+
+footer {
+    background-color: orange;
+    color: crimson;
+}
+
+h2 {
+    color: yellowgreen;
+    background-color: mediumslateblue;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 10px;
+}
+
+#a02 {
+    color: rgb(82, 196, 60);
+    background-color: cornflowerblue;
+    padding: 5px;
+}
+
+#a01 {
+    color: rgb(172, 118, 48);
+    background-color: cornflowerblue;
+    padding: 5px;
+}
+
+.a03 {
+    color: darkgrey;
+    background-color: crimson;
+    padding: 12px;
+    border-style: double;
+    border-color: darkslateblue;
+    border-radius: 10px;
+}
+
+body>table>tbody>tr {
+    background-color: yellowgreen;
+    color: blueviolet;
+}
+
+
+/* comentario */
